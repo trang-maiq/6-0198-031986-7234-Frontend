@@ -1,0 +1,32 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink"
+    },
+    {
+      "id": "HeroSimpleCentered"
+    },
+    {
+      "id": "TestimonialsOffWhiteGrid"
+    },
+    {
+      "id": "StatsSimpleGrid"
+    },
+    {
+      "id": "CtaSimpleCentered"
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText"
+    },
+    {
+      "id": "NewsletterCenteredCard"
+    },
+    {
+      "id": "FooterFourColumnWithCompanyMission"
+    }
+  ],
+  "theme": "dark",
+  "font": "",
+  "title": "Yay: Where Tech Innovation Comes to Life",
+  "subtitle": "Exploring the Latest Trends and Breakthroughs in the Tech Industry"
+}
